@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SafiDS
+- 👋 Hi, I’m Safi Deraiya
 - 👀 I’m interested in Developing Mobile Applications
-- 🌱 I’m currently Working with React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently Working with React Native Framework for Mobile application development
+- 📫 You can connect on LinkedIn https://www.linkedin.com/in/safi-deraiya-3b0690aa/
 
 <!---
 SafiDS/SafiDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
